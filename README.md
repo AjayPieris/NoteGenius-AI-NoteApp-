@@ -25,17 +25,6 @@ Built with Django REST Framework, React (Vite), MySQL, and Tailwind CSS.
 
 ---
 
-## 🎥 Animated Overview
-
-> Tip: Replace the demo GIF/MP4 links below with your own recordings.  
-> Suggested tools: ScreenStudio, Kap, or Loom.
-
-- ▶️ [Quick Demo (1 min)](assets/demo.mp4)
-- 🌀 ![Animated Dashboard Flow](screenshots/dashboard.gif)
-- ⚙️ ![AI Note Card Processing](screenshots/note_card.gif)
-
----
-
 ## ✨ Features
 
 - 🔐 Secure Auth: Token‑based authentication (Login/Register) with auto‑login.

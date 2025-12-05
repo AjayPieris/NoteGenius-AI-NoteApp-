@@ -64,25 +64,6 @@ Built with Django REST Framework, React (Vite), MySQL, and Tailwind CSS.
   <img alt="Router" src="https://img.shields.io/badge/React%20Router-CA4245?logo=reactrouter&logoColor=white" />
 </p>
 
----
-
-## 🧩 Architecture
-
-```
-Frontend (React + Vite + Tailwind)
-    └── Axios → Django REST API
-            ├── Auth (Token)
-            ├── Notes CRUD
-            └── AI Service (Gemini Pro)
-                    ├── Title Generation
-                    ├── Summary
-                    ├── Sentiment
-                    └── Auto‑Tagging
-Database: MySQL
-```
-
----
-
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites

@@ -246,18 +246,6 @@ Pull requests are welcome!
 
 ---
 
-## 📜 License
-
-MIT License. See [LICENSE](LICENSE).
-
----
-
-## 🙌 Credits
-
-Built by Ajay Pieris and contributors.  
-AI powered by Google Gemini. UI by Tailwind CSS.
-
----
 
 ## 🔗 Badges for Quick Reference
 

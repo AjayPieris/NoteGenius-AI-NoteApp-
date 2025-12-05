@@ -68,7 +68,7 @@ Built with Django REST Framework, React (Vite), MySQL, and Tailwind CSS.
 
 ### ✅ Prerequisites
 - 🧰 Node.js (>= 18) and npm
-- 🐍 Python 3.10+
+- 🐍 Python 3.12
 - 🐬 MySQL Server (8.x recommended)
 - 🔑 Google Gemini API key
 
